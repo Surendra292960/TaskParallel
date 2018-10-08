@@ -1,0 +1,17 @@
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\TaskParallel.exe.config
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\TaskParallel.exe
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\TaskParallel.pdb
+G:\C#.NetPrograms\TaskParallel\TaskParallel\obj\Debug\TaskParallel.csprojAssemblyReference.cache
+G:\C#.NetPrograms\TaskParallel\TaskParallel\obj\Debug\TaskParallel.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\TaskParallel\TaskParallel\obj\Debug\TaskParallel.exe
+G:\C#.NetPrograms\TaskParallel\TaskParallel\obj\Debug\TaskParallel.pdb
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\log4net.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\Newtonsoft.Json.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\SuperSocket.Common.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\SuperSocket.Facility.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\SuperSocket.SocketBase.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\SuperSocket.SocketEngine.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\SuperWebSocket.dll
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\log4net.xml
+G:\C#.NetPrograms\TaskParallel\TaskParallel\bin\Debug\Newtonsoft.Json.xml
+G:\C#.NetPrograms\TaskParallel\TaskParallel\obj\Debug\TaskParallel.csproj.CopyComplete
